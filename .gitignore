@@ -1,0 +1,11 @@
+.env
+.venv 
+.venv/*
+.vscode
+.vscode/*
+__pycache__
+__pycache__/*
+.env
+.env/* 
+2107_electrical_data.csv
+2107_electrical_data.csv/*
